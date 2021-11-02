@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, Soy Oivar Micolta.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      A lo largo de mi carrera y crecimiento profesional he tenido la
+      oportunidad de aprender sobre desarrollo de software. He aprendido
+      diversas tecnologías, entre las cuales están: Git y GitHub, Java, Spring
+      Framework y Spring Boot, SQL, Oracle, PostgreSQL, MongoDB, AWS, 
   - section_id: about
     type: section_content
     title: About
