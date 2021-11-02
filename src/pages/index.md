@@ -9,7 +9,7 @@ sections:
       A lo largo de mi carrera y crecimiento profesional he tenido la
       oportunidad de aprender sobre desarrollo de software. He aprendido
       diversas tecnologías, entre las cuales están: Git y GitHub, Java, Spring
-      Framework y Spring Boot, SQL, Oracle, PostgreSQL, MongoDB, AWS, 
+      Framework y Spring Boot, SQL, Oracle, PostgreSQL, MongoDB, AWS.
   - section_id: about
     type: section_content
     title: About
